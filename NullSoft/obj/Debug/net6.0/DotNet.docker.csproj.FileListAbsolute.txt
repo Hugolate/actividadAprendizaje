@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\hlahoz\Documents\actividadAprendizaje\NullSoft\bin\Debug\net6.0\DotNet.docker.exe
 C:\Users\hlahoz\Documents\actividadAprendizaje\NullSoft\bin\Debug\net6.0\DotNet.docker.deps.json
 C:\Users\hlahoz\Documents\actividadAprendizaje\NullSoft\bin\Debug\net6.0\DotNet.docker.runtimeconfig.json
@@ -13,3 +14,20 @@ C:\Users\hlahoz\Documents\actividadAprendizaje\NullSoft\obj\Debug\net6.0\refint\
 C:\Users\hlahoz\Documents\actividadAprendizaje\NullSoft\obj\Debug\net6.0\DotNet.docker.pdb
 C:\Users\hlahoz\Documents\actividadAprendizaje\NullSoft\obj\Debug\net6.0\DotNet.docker.genruntimeconfig.cache
 C:\Users\hlahoz\Documents\actividadAprendizaje\NullSoft\obj\Debug\net6.0\ref\DotNet.docker.dll
+=======
+C:\Users\llpot\Documents\actividadAprendizaje\NullSoft\bin\Debug\net6.0\DotNet.docker.exe
+C:\Users\llpot\Documents\actividadAprendizaje\NullSoft\bin\Debug\net6.0\DotNet.docker.deps.json
+C:\Users\llpot\Documents\actividadAprendizaje\NullSoft\bin\Debug\net6.0\DotNet.docker.runtimeconfig.json
+C:\Users\llpot\Documents\actividadAprendizaje\NullSoft\bin\Debug\net6.0\DotNet.docker.dll
+C:\Users\llpot\Documents\actividadAprendizaje\NullSoft\bin\Debug\net6.0\DotNet.docker.pdb
+C:\Users\llpot\Documents\actividadAprendizaje\NullSoft\obj\Debug\net6.0\DotNet.docker.csproj.AssemblyReference.cache
+C:\Users\llpot\Documents\actividadAprendizaje\NullSoft\obj\Debug\net6.0\DotNet.docker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\llpot\Documents\actividadAprendizaje\NullSoft\obj\Debug\net6.0\DotNet.docker.AssemblyInfoInputs.cache
+C:\Users\llpot\Documents\actividadAprendizaje\NullSoft\obj\Debug\net6.0\DotNet.docker.AssemblyInfo.cs
+C:\Users\llpot\Documents\actividadAprendizaje\NullSoft\obj\Debug\net6.0\DotNet.docker.csproj.CoreCompileInputs.cache
+C:\Users\llpot\Documents\actividadAprendizaje\NullSoft\obj\Debug\net6.0\DotNet.docker.dll
+C:\Users\llpot\Documents\actividadAprendizaje\NullSoft\obj\Debug\net6.0\refint\DotNet.docker.dll
+C:\Users\llpot\Documents\actividadAprendizaje\NullSoft\obj\Debug\net6.0\DotNet.docker.pdb
+C:\Users\llpot\Documents\actividadAprendizaje\NullSoft\obj\Debug\net6.0\DotNet.docker.genruntimeconfig.cache
+C:\Users\llpot\Documents\actividadAprendizaje\NullSoft\obj\Debug\net6.0\ref\DotNet.docker.dll
+>>>>>>> MainMenu
