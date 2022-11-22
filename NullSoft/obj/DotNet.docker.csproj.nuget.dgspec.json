@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\llpot\\Documents\\actividadAprendizaje\\NullSoft\\DotNet.docker.csproj": {}
+    "C:\\Users\\hlahoz\\Documents\\actividadAprendizaje\\NullSoft\\DotNet.docker.csproj": {}
   },
   "projects": {
-    "C:\\Users\\llpot\\Documents\\actividadAprendizaje\\NullSoft\\DotNet.docker.csproj": {
+    "C:\\Users\\hlahoz\\Documents\\actividadAprendizaje\\NullSoft\\DotNet.docker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\llpot\\Documents\\actividadAprendizaje\\NullSoft\\DotNet.docker.csproj",
+        "projectUniqueName": "C:\\Users\\hlahoz\\Documents\\actividadAprendizaje\\NullSoft\\DotNet.docker.csproj",
         "projectName": "DotNet.docker",
-        "projectPath": "C:\\Users\\llpot\\Documents\\actividadAprendizaje\\NullSoft\\DotNet.docker.csproj",
-        "packagesPath": "C:\\Users\\llpot\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\llpot\\Documents\\actividadAprendizaje\\NullSoft\\obj\\",
+        "projectPath": "C:\\Users\\hlahoz\\Documents\\actividadAprendizaje\\NullSoft\\DotNet.docker.csproj",
+        "packagesPath": "C:\\Users\\hlahoz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hlahoz\\Documents\\actividadAprendizaje\\NullSoft\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\llpot\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\hlahoz\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -39,6 +37,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -55,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "mdnQ4tDM2g/1AOY0YN7a3qfBNAAXH2Wz6g0M6tmt/J9Bi6qx4nk9s8/rixAXYZ3SDvBV0+GnBW+Q/zVKhke6Sg==",
+  "dgSpecHash": "C0haOeIwaz+4goW7Gs7KwbiPG8OCtPP9zSSkxMeI4lXgLRP0zHdeGBTnz8BEEsMZcpUSVztLC8fHVooiS/LBEQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\llpot\\Documents\\actividadAprendizaje\\NullSoft\\DotNet.docker.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\hlahoz\\Documents\\actividadAprendizaje\\NullSoft\\DotNet.docker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hlahoz\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
